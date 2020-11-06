@@ -1,0 +1,20 @@
+body {
+    background-image: url("../image/b4.jpg");
+}
+nav{
+    text-align: center;
+}
+h1{
+    color: palevioletred;
+    text-align: center;
+}
+h2{
+    color: rgb(185, 54, 120);
+    scrollbar-3dlight-color: violet;
+    text-align: center;
+}
+h3{
+    color: lightsalmon;
+    text-align: center;
+    text-transform: capitalize;
+}
